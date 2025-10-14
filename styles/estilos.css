@@ -1,13 +1,13 @@
 .colorUno{
-    background-color: #40828a;
+    background-color: #ec27b1;
 }
 
 .colorDos{
-    background-color: #51b997;
+    background-color: #ac16f1;
 }
 
 .colorTres{
-    background-color: #7dd28d;
+    background-color: #154be0;
 }
 
 .fuente{
@@ -23,3 +23,12 @@
     background-attachment: fixed;
     padding: 25%;
 }
+
+.btn btn-primary{
+    background-color: #1694e9;
+    border:#1694e9
+    color: #a3b0d6;
+
+}
+
+    
